@@ -1,0 +1,193 @@
+#logotipo{
+    width: 7rem;
+}
+.centrado{
+    text-align: center;
+    margin: auto;
+}
+html, body, h1, h3, h4, ol, ul, li, a, p{
+    margin:0;
+    padding: 0;
+    font-family: Calibri,Arial;
+}
+
+body{
+    background-color: #000000;
+    background-image: 
+}
+
+.espacioHeader{
+    padding-left: 105px;
+}
+
+header{
+    background-color: #000000;
+    height: 38px;
+    padding-top: 10px;
+    padding-left: 50px;
+}
+
+header a{
+    background-color: #bb0c0c;
+    font-size: 20px;
+    color: #000000;
+    text-decoration: none;
+    padding-left: 14px;
+    padding-right: 15px;
+    padding-top: 12px;
+    padding-bottom: 14px;
+    float: inline-end;
+}
+
+
+.espacioEnlace1{
+    padding-left: 450px;
+}
+
+
+
+#nav-item{
+    height: 65px;
+    background-color: #000000;
+}
+
+#nav-item a{
+    text-decoration: none;
+    font-size: 26px;
+    color: #a00000;
+    text-align: center;
+    padding-right: 50px;
+}
+
+#nav-item ul{
+    float: left;
+    padding-top: 15px;
+}
+
+#nav-item ul li{
+    display: inline;
+}
+
+#nav1 ul li a:hover{
+    color: #0debcd;
+}
+
+
+#contenedor2{
+    float: left;
+    margin-top: 10px;
+    margin-left: 140px;
+}
+
+#contenedor2 h2{
+    color: #FFFFFF;
+}
+
+
+
+#contenedor2 img{
+    width: 100%;
+}
+
+#contenedor2 ul{
+    list-style: none;
+    text-decoration: none;
+}
+
+#contenedor2 a{
+    color: #FFFFFF;
+    text-decoration: none;
+    font-size: 18px;
+}
+
+#contenedor2 a:hover{
+    color: rgb(255, 0, 0);
+}
+
+
+
+#contenedorTabla table tr td{
+    background-color: #c9c9c9;
+    font-family: Calibri;
+    font-size: 18px;
+    text-align: justify;
+    padding: 10px;
+}
+
+
+#contenedorTabla table h3{
+    text-align: center;
+    color: #f71616;
+}
+
+#contenedorLogin{
+    background-color: #000000;
+    
+}
+
+#contenedorLogin table{
+    background-color: #910c0c;
+    width: 700px;
+    text-align: center;
+    border-width: 0;
+}
+#contenedorLogin table th{
+    background-color: #7e0606;
+    
+}
+
+.textoizquierda{
+    text-align: left;
+    padding-left: 150px;
+    font-weight: bold;
+}
+
+#contenedorLogin table th p{
+    font-size: 30px;
+    color: #310a0a;
+}
+
+#contenedorLogin table th label{
+    font-size: 20px;
+    color: #6b0d0d;
+}
+
+#contenedorLogin table td label{
+    font-size: 25px;
+    text-align: left;
+}
+
+#contenedorLogin a{
+    color: #ffb1b1de;
+    text-decoration: none;
+    font-weight: normal;
+    font-size: 18px;
+}
+
+.camposForm{
+    font-size: 30px;
+    border-color: rgb(46, 0, 0);
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.espaciosForm{
+    padding-top: 10px;
+    padding-left: 100px;
+    padding-right: 100px;
+}
+
+.boton{
+    font-size: 28px;
+    background-color: #ff5b5b56;
+    color: #ffb1b1de;
+    margin-top: 15px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-left: 140px;
+    padding-right: 140px;
+}
+
+
