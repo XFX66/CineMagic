@@ -1,3 +1,9 @@
+html{
+    min-height: 100%;
+    position: relative;
+}
+
+
 #logotipo{
     width: 7rem;
 }
@@ -11,11 +17,39 @@ html, body, h1, h3, h4, ol, ul, li, a, p{
     font-family: Calibri,Arial;
 }
 
-body{
+body {
     background-color: #000000;
-    background-image: 
+    margin: 0;
+    margin-bottom: 40px;
+  }
+  footer {
+    background-color: rgb(119, 3, 3);
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: 5px;
+    color: white;
+  }
+
+.d{
+    text-align: center;
 }
 
+.imagen{
+    width: 100px;
+    height: 100px;
+    background-image: url(https://preview.redd.it/cat-memes-dump-silly-warning-v0-9886ruaboqeb1.jpg?width=1080&crop=smart&auto=webp&s=fb2ecae3a356c9129e299a6bfa98428bf83db02a);
+    background-size: cover;
+    border-radius: 50%;
+    margin: 0 auto;
+}
+
+
+
+
+
+
+  
 .espacioHeader{
     padding-left: 105px;
 }
