@@ -21,7 +21,40 @@ body {
     background-color: #000000;
     margin: 0;
     margin-bottom: 40px;
+
   }
+
+  .sect {
+    width: 100%;
+    min-height: 500px;
+  }
+  #sect1,
+  #sect3 {
+    background-color: #3333337d;
+    color: #fff;
+  }
+  #sect2 {
+    background-color: #dddddd7d;
+    color: #333;
+  }
+  video {
+    position: fixed;
+    left: 0;
+    top: 0;
+    height:100%;
+    z-index: -1;
+  }
+  h1 {
+    margin: 0;
+    padding-top: 3rem;
+    padding-left: 2rem;
+  }
+  h2 {
+    margin: 0;
+    padding-top: 3rem;
+    padding-left: 2rem;
+  }
+  
   footer {
     background-color: rgb(119, 3, 3);
     position: absolute;
