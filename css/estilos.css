@@ -21,8 +21,13 @@ body {
     background-color: #000000;
     margin: 0;
     margin-bottom: 40px;
+}
 
-  }
+.imagenindex{
+    width: 100px;
+    height: 100px;
+}
+
 
   .sect {
     width: 100%;
